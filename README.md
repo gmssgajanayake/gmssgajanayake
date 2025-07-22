@@ -49,10 +49,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmssgajanayake&show_icons=true&theme=tokyonight" />
+<p align="center" style="background-color: #0d1117;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmssgajanayake&show_icons=true&theme=tokyonight" style="background-color: #0d1117;" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmssgajanayake&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmssgajanayake&layout=compact&theme=tokyonight" style="background-color: #0d1117;" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gmssgajanayake&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gmssgajanayake&theme=tokyonight" style="background-color: #0d1117;" />
 </p>
+
