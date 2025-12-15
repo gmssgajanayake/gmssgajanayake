@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working as an Intern Software Developer at Residue Solution Pvt Ltd
+- 🔭 I’m currently working as an **Intern Software Developer at Residue Solution Pvt Ltd**
 - 🌱 I’m currently learning **Spring Boot**
 - 💬 Ask me about **Java, Spring, Next.js**
 - 📫 Reach me at **sakujashamalgajanayake@gmail.com**
